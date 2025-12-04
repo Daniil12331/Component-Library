@@ -1,6 +1,6 @@
 {
-  "name": "is-components-new",
-  "description": "Is components",
+  "name": "harmony-ui",
+  "description": "A consistent and modern Vue 3 component library",
   "version": "0.0.4",
   "license": "MIT",
   "type": "module",
